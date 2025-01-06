@@ -5,7 +5,7 @@ Este repositório é destinado a fornecer suporte técnico e instruções detalh
 
 ## Conteúdo
 
-### 1. Guia de Referência de Instalação - Alterar IP
+### 1. Guia de Referência de Instalação - Alterar IP (Coletores Rock Pi S)
 Este documento aborda:
 - Instalação e uso do **ADB Tools** para configuração via USB.
 - Configuração de rede (Wi-Fi e cabeada) usando comandos no terminal.
@@ -31,10 +31,19 @@ Inclui informações sobre:
 Inclui informações sobre:
 - Especificações do modelo **INOVA TINY IRPS**.
 - Guia de instalação e ligações de sinais.
-- Desenvolvimento de software em **Debian-amr64**.
 - Recursos para coleta de dados e controle de sinais.
 
 📄 Arquivo: `Manual Geral - INOVA TINY.pdf`
+
+---
+
+### 4. Manual Geral - INOVA LINKIT
+Inclui informações sobre:
+- Especificações do modelo **INOVA MINI LINKIT**.
+- Guia de instalação e ligações de sinais.
+- Recursos para coleta de dados e controle de sinais.
+
+📄 Arquivo: `Manual Geral - INOVA LINKIT.pdf`
 
 ---
 
